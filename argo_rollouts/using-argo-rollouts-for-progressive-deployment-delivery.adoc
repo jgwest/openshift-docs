@@ -7,7 +7,6 @@ include::_attributes/common-attributes.adoc[]
 toc::[]
 
 :FeatureName: Argo Rollouts
-include::snippets/technology-preview.adoc[leveloffset=+1]
 
 Progressive delivery is the process of releasing product updates in a controlled and gradual manner.
 Progressive delivery reduces the risk of a release by exposing the new version of a product update only to a subset of users initially. The process involves continuously observing and analyzing this new version to verify whether its behavior matches the requirements and expectations set. The verifications continue as the process gradually exposes the product update to a broader and wider audience.
@@ -45,4 +44,3 @@ include::modules/gitops-deleting-rolloutmanager-custom-resource.adoc[leveloffset
 * link:https://docs.openshift.com/container-platform/latest/applications/deployments/route-based-deployment-strategies.html#deployments-blue-green_route-based-deployment-strategies[Blue-green deployments]
 * link:https://argo-rollouts-manager.readthedocs.io/en/latest/crd_reference/[`RolloutManager` Custom Resource specification]
 * link:https://www.redhat.com/architect/blue-green-canary-argo-rollouts[Blue-green and canary deployments with Argo Rollouts]
-* link:https://cloud.redhat.com/blog/trying-out-argo-rollouts-in-openshift-gitops-1.9/[Argo Rollouts tech preview limitations]

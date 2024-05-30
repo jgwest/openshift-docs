@@ -65,7 +65,7 @@ The features mentioned in the following table are currently in Technology Previe
 
 |Argo Rollouts
 |1.9.0
-|NA
+|1.13.0
 
 |ApplicationSet Progressive Rollout Strategy
 |1.8.0
